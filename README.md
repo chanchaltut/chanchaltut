@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Chanchal this side... 👋
 
 <!--
 **chanchaltut/chanchaltut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🙋🏻‍♂️ I’m a Front-end Web Developer.
+- 😇 I’m currently working on some of my JavaScript Projects.
+- 🌱 I’m looking to collaborate on new open projects.
+- 🏸 Shuttle is also a part of my life with this coding hustle.
+- ❤ A great lover of Maths, Physics and Literature.
+- 💬 We can have a conversation on Mail.
+- 😄 Looking forward to have a great journey ahead.
+- ⚡ Fun fact: alert(`If you’ve completed reading, then you can press ( alt + ⬅ ) `)
