@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🏸 Shuttle is also a part of my life with this coding hustle.
 - ❤ A great lover of Maths, Physics and Literature.
 - 💬 We can have a conversation via Mail.
-- 😄 Looking forward to have a great journey ahead.
+- 😄 Looking forward to having a great journey ahead.
 - ⚡ Fun fact: alert(`If you’ve completed reading, then you can press ( alt + ⬅ ) `)
