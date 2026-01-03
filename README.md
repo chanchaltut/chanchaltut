@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanchal</h1>
 <h3 align="center">A passionate Front-end Developer from India.</h3>
 
-- 🔭 The had recently made this project [Swagat Odisha](https://www.swagatodisha.com)
+- 🔭 The had recently made this project [Rent Yaard](https://www.rentyaard.com)
 
 - 🌱 I’m currently learning **React, MongoDB**
 
