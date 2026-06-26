@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chanchal</h1>
-<h3 align="center">A passionate Front-end Developer from India.</h3>
+<h3 align="center">A Full Stack AI Developer from India.</h3>
+
+- 🧠 I'm currently working on "SharkMind".
 
 - 🔭 The had recently made this project [Rent Yaard](https://www.rentyaard.com)
 
-- 🌱 I’m currently learning **React, MongoDB**
+- 🌱 I’m currently learning **Agentic AI, RAG**
 
-- 👯 I’m looking to collaborate on **Front-end projects**
+- 👯 I’m looking to collaborate on **Full-Stack AI projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chanchaltut](https://github.com/chanchaltut)
 
-- 📝 I had written few articles on [https://www.theultimatethinker.com/](https://www.theultimatethinker.blogspot.com/)
+- 📝 I had written few articles on [The Ultimate Thinker POV](https://www.theultimatethinkerPOV.blogspot.com/)
 
 - 💬 Ask me about **JavaScript and Python**
 
