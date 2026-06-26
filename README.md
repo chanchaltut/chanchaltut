@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chanchaltut](https://github.com/chanchaltut)
 
-- 📝 I had written few articles on [https://www.theultimatethinker.com/](https://www.theultimatethinker.com/)
+- 📝 I had written few articles on [https://www.theultimatethinker.com/](https://www.theultimatethinker.blogspot.com/)
 
 - 💬 Ask me about **JavaScript and Python**
 
